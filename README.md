@@ -1,3 +1,3 @@
 # blog-suggest-app
 
-<video src=""></video>
+<video src="sample.mov"></video>
